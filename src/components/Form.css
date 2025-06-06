@@ -97,10 +97,13 @@
   box-sizing: border-box;
 }
 
-.form-group input::placeholder,
-.form-group select {
+.form-group input::placeholder {
   color: #7a8a9f;
 }
+.form-group select {
+  color: #cbd5e1; 
+}
+
 
 .form-group input:focus,
 .form-group select:focus {
